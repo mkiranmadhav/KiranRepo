@@ -1,0 +1,29 @@
+Customer_Code,Account_Number,Cust_CoName,First_Name,Last_Name,Cust_Addr1,Cust_Addr2,Cust_Addr3,Cust_City,Cust_PostCode,ContactEmail,Cust_Phone,BillingMode,CreatedDate,ShipDate,BusinessUnit,RelationshipType,CustomerStatus
+2,BF2,PostCustomer,PostCustomer,,Add1/5676 dfgd-te,,,,TW88HP,,123434,Post-Pay,1/20/2014,2/19/2014,ParcelHero.com,Customer,Acitve
+5,BF5,PostXerox Company,PostXerox Company,,Add1,,,,tw88hr,,1234567,Post-Pay,1/20/2014,2/19/2014,ParcelHero.com,Customer,Acitve
+45,PV45,James Freght co,Annka,Jeavons,MATTILANTIE 1,SF-11710,,Brentford,TW88HR,kieran@cfdltd.com,31013067182,Pre-Pay,1/24/2014,1/26/2014,ParcelHero.com,Customer,1 time user
+50,BF50,PostChopper Ltd,PostChopper Ltd,,ABC/123,,,,TW88HR,,123321,Post-Pay,1/24/2014,3/8/2014,ParcelHero.com,Customer,Acitve
+103,BF103,PostPlastic Company,PostPlastic Company,,Same Address 123,,,,TW88HP,,123456,Post-Pay,1/27/2014,1/28/2014,ParcelHero.com,Customer,Acitve
+111,BF111,PostFare,PostFare,,ww-123,,,,tw88hr,,2134567,Post-Pay,1/28/2014,,ParcelHero.com,Customer,Registered
+112,BF112,test,test,,kllkl,,,,en37sy,,90909,Pre-Pay,1/28/2014,,ParcelHero.com,Customer,Registered
+113,PV113,Brendon Mc cullam,test,,Address 1,Address 2,Address 3,Sender city,BA15RR,Rahul@enn.com,1462676108,Pre-Pay,1/28/2014,1/28/2014,ParcelHero.com,Customer,1 time user
+113,BF113,test,test,,dsds,,,,en37sy,,56565,Pre-Pay,1/28/2014,1/28/2014,ParcelHero.com,Customer,Acitve
+191,BF191,PostAMP,PostAMP,,asd213,,,,tw88hp,,1234567,Post-Pay,1/30/2014,3/5/2014,ParcelHero.com,Customer,Acitve
+192,BF192,PostMaverick,PostMaverick,,add 1,add 2,,,TW88HR,,123456,Post-Pay,1/31/2014,3/11/2014,ParcelHero.com,Customer,Acitve
+255,BF255,PostZetta,PostZetta,,esdfsdfsd,,,,TW88HP,,123445,Post-Pay,2/4/2014,,ParcelHero.com,Customer,Registered
+286,PV286,PostDaily-Customer,Sandy,,Works Road1,Mill Mead Road,Brentford Lock,Letchworth Garden City,TW88HR,a.sarewar@ennovatesoftware.com,1462676108,Pre-Pay,2/7/2014,11/9/2013,ParcelHero.com,Customer,Acitve
+317,BF317,asdsad,asdsad,,234234,,,,23424,,234324,Post-Pay,2/11/2014,11/14/2013,ParcelHero.com,Customer,1 time user
+318,BF318,Asdasd2,Asdasd2,,saedfsadf,,,,tw88ht,,1212121,Post-Pay,2/11/2014,,ParcelHero.com,Customer,Registered
+319,BF319,asdasd,asdasd,,123,,,,123213,,23421421,Post-Pay,2/11/2014,,ParcelHero.com,Customer,Registered
+332,BF332,PostMaster,PostMaster,,PP,,,,TW88HR,,123456,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+333,BF333,PostMaster1,PostMaster1,,pm,,,,12313123,,2132131,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+334,BF334,Premaster,Premaster,,ff,,,,TW88HP,,234234234,Pre-Pay,2/14/2014,12/25/2013,ParcelHero.com,Customer,Acitve
+337,BF337,PostSSS,PostSSS,,dfdfdfdf,,,,en37sy,,545454,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+339,BF339,postnew,postnew,,address1,,,,323232,,434343,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+340,BF340,postold,postold,,fdsdsf,,,,434343,,43434,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+341,BF341,postold1,postold1,,wwewew,,,,52565635,,323232,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+342,BF342,PostSuper,PostSuper,,PS,,,,TW88HR,,2314214214,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+343,BF343,Postwendor,Postwendor,,23423434,,,,TW88HP,,1234567,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+344,BF344,PostGeo,PostGeo,,PG,,,,TW88HR,,123456,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+345,BF345,PostPost,PostPost,,fffdf,,,,TW88HR,,123456,Post-Pay,2/14/2014,,ParcelHero.com,Customer,Registered
+402,PV402,Australian Cricket Club Save,Chris,Rogers,Address 1,Address 2,Address 3,Sender city,BA15RR,Rahul@enn.com,1462676108,Pre-Pay,2/24/2014,2/24/2014,ParcelHero.com,Customer,1 time user

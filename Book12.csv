@@ -1,0 +1,51 @@
+Customer_Code,Account_Number,Cust_CoName,First_Name,Last_Name,Cust_Addr1,Cust_Addr2,Cust_Addr3,Cust_City,Cust_PostCode,ContactEmail,Cust_Phone,BillingMode,CreatedDate,ShipDate,BusinessUnit,RelationshipType,CustomerStatus
+1,1,ParcelHero.com Limited,dfgdgfdgf,dffffdgdfgg,1 Spruce House,Durham Wharf Drive,Brentford Lock,Brentford,dfgdgfdgfdgfd,pkginfo@parcelhero.com,4.42088E+11,Pre-Pay,11/18/2011,6/18/2013,ParcelHero.com,Customer,1 time user
+2,2,Big Yellow Byfleet,Ashutosh,Sharma,113-115 Oyster Lane,,,Surrey,KT14 7JZ,ashu@ennovate-software.com,2087584999,Pre-Pay,11/24/2011,10/1/2012,ParcelHero.com,Customer,1 time user
+8,8,,Roger,Sumner-Rivers,1 SPRUCE HOUSE,DURHAM WHARF DRIVE,,BRENTFORD,TW8 8HR,roger@fdsworldwide.net,2087584999,Pre-Pay,12/13/2011,12/13/2011,ParcelHero.com,Customer,1 time user
+10,10,Armadillo Liverpool South,Karen,Dhaliwal,Goodlass Road,Off Speke Hall Road,Off Speke Hall Road,Liverpool,L24 9HL,K_CHHOKAR@YAHOO.CO.UK,7590778322,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+11,11,Armadillo Sheffield Parkway,Tina,Lockett,8 Parkway Avenue,,,Sheffield,S9 4WA,angelabbie@ntlworld.com,01689 874740,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+13,13,,Steven,Camp,TREGONY LOWER ROAD,LITTLE HALLINGBURY,,BISHOP'S STORTFORD,CM22 7RD,scampiebaps@googlemail.com,7515152011,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+14,14,Armadillo Sheffield Parkway,JOHN,WEBSTER,8 Parkway Avenue,,,Sheffield,S9 4WA,hoppy-mayes@live.co.uk,7780887163,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+16,16,,Angela,Thomsen,test1t,test2,test3,BEVERLY HILLS,90210,a.thomsen@btinternet.com,7887777806,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+17,17,Armadillo Stoke,Kasia,Burda,Victoria Works,Victoria Road,Victoria Road,Stoke on Trent,ST4 2QR,kasia.burda@yahoo.co.uk,4.41328E+11,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+18,18,Armadillo Hull,Keith,Phillips,Spyvee Street,,,Hull,HU8 7JJ,keithwp50@gmail.com,34534,Pre-Pay,12/14/2011,7/19/2013,ParcelHero.com,Customer,1 time user
+19,19,,Lydia,Hall,67 HAWKSLEY AVENUE,,,SHEFFIELD,s6 2bd,candyflosspot@gmail.com,7969851010,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+20,20,Armadillo Dundee,SHARON,WALLIS,30 Loons Road,,,Dundee,DD3 6AN,sharonwallis@gmail.com,7732093519,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+24,24,,Amelia,Kennedy,3213,,,BEVERLY HILLS,90210,foxy959@hotmail.com,1283716395,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+385,385,,Kerry,Brearley,1 KILDARE ROAD,,,BLACKPOOL,FY2 0LR,kerry.brearley@mail.com,1253594818,Pre-Pay,1/2/2012,,ParcelHero.com,Customer,Registered
+386,386,,Shaun,Harding,9 GOMMS WOOD CLOSE,,,BEACONSFIELD,HP9 1XR,shaunharding38@gmail.com,1494673898,Pre-Pay,1/2/2012,,ParcelHero.com,Customer,Registered
+7,7,,Roger,Sumner-Rivers,34,Quernmore Drive,Kelbrook,Barnoldswick,BB18 6TX,roger@parcelhero.com,7818066359,Pre-Pay,12/12/2011,8/14/2012,ParcelHero.com,Customer,1 time user
+21,21,Armadillo Liverpool North,paul,pennington,387 Stanley Road,Bootle,Bootle,Liverpool,L20 2AE,paulp737@aol.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+22,22,,Tiffani,Ogilvie,,,,,WD25 9TP,tiffaniogilvie92@hotmail.co.uk,7931391061,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+25,25,Armadillo Peterborough,lee,Burton,Westfield Road,,,Peterborough,PE3 9TB,leeburton82@hotmail.com,7855016769,Pre-Pay,12/14/2011,7/19/2013,ParcelHero.com,Customer,1 time user
+27,27,,Samantha,Lloyd,38 Heritage Way,,,Llanharan,CF72 9WD,samanthajaynelloyd@googlemail.com,7827918060,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+28,28,Armadillo Liverpool South,jason,wills,Goodlass Road,Off Speke Hall Road,Off Speke Hall Road,Liverpool,L24 9HL,vernonuk2@aol.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+33,33,,Gemma,Mills,7 SIRDAR ROAD,,,SOUTHAMPTON,SO17 3SH,gemma_1000_1999@yahoo.com,7811558579,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+36,36,,Debbie,Bird,79 GLENWOOD AVENUE,,,Bradford,BD17 5RS,debbiebird3@hotmail.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+37,37,,Vicky,Carter,71 CAVENDISH WAY,,,GRANTHAM,NG31 9FN,v.a.carter@hotmail.co.uk,7866620006,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+38,38,,Angela,Parker,,,,,DN33 3EF,angieanguk@hotmail.com,1472590502,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+45,45,,keith,bowden,,,,,s40 4te,keithyb@hotmail.com,7847570413,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+47,47,,Tracey,Peach,29 FRANKLIN GARDENS,Cottenham,Cambridge,Cambridgeshire,CB24 8QW,tracey.sunnyone@googlemail.com,7946151750,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+48,48,,Simon,Adams,TEST,,,DERRYMANE,,simon-adams@ic24.net,345345,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+51,51,,david,hurst,182 BADMINTON ROAD,Downend,,BRISTOL,BS16 6NG,compdnh@hotmail.co.uk,7877329696,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+3866,3866,,sd,dsf,,,,,GFGFD,ashishSD@mail.com,,Pre-Pay,8/12/2013,,ParcelHero.com,Customer,Registered
+30,30,,Scott,Kelly,15 DAVID GAGE STREET,,,KILWINNING,KA13 7EH,scott_kelly_9@hotmail.co.uk,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+31,31,,Katherine,Adams,,,,,DE24 8WB,katadams38@gmail.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+34,34,,qwe,qweqw,,,,,tw88hr,k.adams1962@hotmail.co.uk,7525810466,Pre-Pay,12/14/2011,8/30/2012,ParcelHero.com,Customer,1 time user
+39,39,,Mike,Smith,,,,,SO322PA,miztas@hotmail.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+40,40,,Benjamin,Coleman,,,,,LU7 0AN,chewbacca@tcp.co.uk,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+41,41,twajhdks,ruth,roberts,kjhaksjdhk,k,,123123,LL77 7EZ,RUTHTWIN83@TISCALI.CO.UK,1248724054,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+42,42,,Julie,Feathers,9 GRAIG-Y-DDERI,,,SWANSEA,SA7 9HT,juliegydglais@talktalk.net,1792843132,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+44,44,,John,Tilbury,,,,,SN15 2BE,samthedaftdog@aol.com,7796264342,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+50,50,,Mark,Doherty,22 ARROWSMITH GARDENS,,,THORNTON-CLEVELEYS,FY5 2WS,bfcpool@hotmail.co.uk,1253827753,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+54,54,,michelle,evans,33 ASTORIA GARDENS,,,WILLENHALL,wv12 5xr,twinkles5@live.co.uk,7927612194,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+56,56,,john,gunn,11A ROSEDALE AVENUE,,,BLACKPOOL,fy44hr,smackdowngunny@hotmail.com,7800506095,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+57,57,,Gavin,Counahan,111 SOUTHFIELD,,,POLEGATE,BN26 5LY,gavin_counahan@hotmail.com,7708384036,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+61,61,,glenn,hutton,11 LYNNS HALL CLOSE,,,great waldingfield,co100fw,glenn_hutton@hotmail.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+53,53,,Emma,Warner,7 JARVIS WAY,,,COALVILLE,LE67 5HL,emmark_08@yahoo.com,7891314113,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+58,58,,Astrid,James,,,,,CO16 7AY,astrid.james1@googlemail.com,1255426161,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+59,59,,Joanne,Dawkins,35C SANDWICH ROAD,EYTHORNE,,DOVER,CT15 4DE,lewiscro@aol.com,7792038110,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+60,60,,Marc,Landers,,,,,DD10 9DD,marclanders@btinternet.com,,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+65,65,,Claire,Lawrence,7  ANGEL YARD,SALTERGATE,,CHESTERFIELD,s40 1jp,claire.lawrence003@gmail.com,7966915837,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+68,68,,David,Curtis,,,,,FY1 4BX,dave.jillc@talktalk.net,01253 294887,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
+70,70,,simon,detorres,,,,,cf158ru,s.detorres@ntlworld.com,2920843893,Pre-Pay,12/14/2011,,ParcelHero.com,Customer,Registered
